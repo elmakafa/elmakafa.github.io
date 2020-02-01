@@ -12,17 +12,18 @@ h1 {
 	color: red;
 }
 
-h2 {
+h3 {
 	
-}
+	font-family:" Times New Roman",Times, serif;
+	color: red;
+	}
 
-
+h4{
+	font-family:" Times New Roman",Times, serif;
+	
 p {
   
 }
 
-.hero a {
-	color: #00FFAA;
-	font-size: 1.25em;
-	text-decoration: none;
+
 }
