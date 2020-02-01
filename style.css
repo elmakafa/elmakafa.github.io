@@ -15,5 +15,18 @@ h1 {
 h2 {
 	color: #ffffff;
 	font-size: 56px; 
+	.hero {
+  background-image: url("https://BULAMADIM.jpg");
+  background-size: cover;
+}
 
 
+p {
+  font-size: 2rem;
+}
+
+.hero a {
+	color: #00FFAA;
+	font-size: 1.25em;
+	text-decoration: none;
+}
