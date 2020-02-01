@@ -1,27 +1,24 @@
 
 body {
 	background-color:#fefbd8;
-	font-family: Georgia, serif;
+	font-family:" Times New Roman",Times, serif;
 	height: 100%;
 	margin: 0;
 	width: 100%;
 }
 
 h1 {
+	font-family:" Times New Roman",Times, serif;
 	color: red;
 }
 
 h2 {
-	color: #ffffff;
-	font-size: 56px; 
-	.hero {
-  background-image: url("https://BULAMADIM.jpg");
-  background-size: cover;
+	
 }
 
 
 p {
-  font-size: 2rem;
+  
 }
 
 .hero a {
