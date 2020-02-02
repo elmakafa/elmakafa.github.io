@@ -13,6 +13,13 @@ body {
   font-weight: 100;
 }
 
+
+img{
+	position:absulute;
+	right:2px;
+	top:2px;
+}
+
 .page-description {
  
 
@@ -21,7 +28,7 @@ body {
 
 }
 
-img{float:right;}
+
 
 h1 {
 	font-family:" Times New Roman",Times, serif;
