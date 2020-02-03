@@ -6,31 +6,7 @@ body {
 	margin: 0;
 	width: 100%;
 }
-{
-  box-sizing: border-box;
-}
 
-body {
-  font-family: Arial, Helvetica, sans-serif;
-}
-
-
-header {
-  background-color: #666;
-  padding: 30px;
-  text-align: center;
-  font-size: 35px;
-  color: white;
-}
-
-
-nav {
-  float: left;
-  width: 30%;
-  height: 300px; /* only for demonstration, should be removed */
-  background: #ccc;
-  padding: 20px;
-}
 
 .page-title {
   text-align: left;
@@ -43,6 +19,8 @@ img{
 	right:2px;
 	top:2px;
 }
+
+img{float:right;}
 
 .page-description {
  
