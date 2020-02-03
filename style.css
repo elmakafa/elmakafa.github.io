@@ -9,7 +9,7 @@ body {
 
 
 .page-title {
-  text-align: left;
+  text-align: center;
   font-weight: 100;
 }
 
@@ -20,7 +20,7 @@ img{
 	top:2px;
 }
 
-img{float:right;}
+img{float:center;}
 
 .page-description {
  
